@@ -1,6 +1,6 @@
 {
   "name": "myfitnesspal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Submit nutrition data to MyFitnessPal.",
   "main": "src/client.js",
   "type": "module",
