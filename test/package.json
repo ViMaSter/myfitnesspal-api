@@ -1,0 +1,26 @@
+{
+  "name": "myfitnesspal-test",
+  "version": "1.0.0",
+  "description": "Integration test suite for myfitnesspal",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --env-file=.env",
+    "citest": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ViMaSter/myfitnesspal-api.git"
+  },
+  "author": "Vincent Mahnke (vincent@mahn.ke)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ViMaSter/myfitnesspal-api/issues"
+  },
+  "homepage": "https://github.com/ViMaSter/myfitnesspal-api#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "myfitnesspal": "file:../package"
+  }
+}
