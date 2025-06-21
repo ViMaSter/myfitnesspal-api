@@ -13,8 +13,8 @@ Submit nutrition information to MyFitnessPal.
 3. Navigate into the `test` subdirectory
 4. Create a `.env` file with the following content:  
    ```
-      EMAIL="your email"
-      PASSWORD="your password"
+   EMAIL="your email"
+   PASSWORD="your password"
    ```
 5. Run `nvm i && nvm use && npm i`
 6. Run `npm run test`
