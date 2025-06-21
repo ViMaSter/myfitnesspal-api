@@ -4,7 +4,7 @@ Submit nutrition information to MyFitnessPal.
 
 ## Usage
 
-1. In the [the usage reference](https://github.com/ViMaSter/marleyspoon-api/blob/main/test/client.test.js#L5C7-L27), replace `process.env.EMAIL` and `process.env.PASSWORD` with your credentials 
+1. In the [the usage reference](https://github.com/ViMaSter/myfitnesspal-api/blob/main/test/auth.test.js#L5-L9), replace `process.env.EMAIL` and `process.env.PASSWORD` with your credentials 
 
 ## Running tests
 
